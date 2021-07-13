@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammadabidi
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on Professional Companies ...
+- 💞️ I’m looking to collaborate on Software Companies ...
 - 📫 you can Reach me out here : abidimohammad86@gmail.com
 
 <!---
